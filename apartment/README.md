@@ -1,6 +1,8 @@
 # Build an Apartment Starter Project
 This is how my apartment would look if I lived In VR
 
+![screenshot](/apartment/screenshot.jpeg)
+
 ## Mobile OS
 - Android
 
